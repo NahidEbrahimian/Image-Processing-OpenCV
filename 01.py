@@ -1,24 +1,30 @@
+import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-chess_board = np.zeros((10, 10))
 
-for i in range(chess_board.shape[0]):
-  for j in range(chess_board.shape[1]):
-    
-    if i%2 == 0:
+rows = 320
+cols = 320
 
-      if j%2 == 0:
-        chess_board[i, j] = 1
-      elif j%2 == 1:
-        chess_board[i, j] = 0
+chess_board = np.zeros((rows, cols))
+block_size = chess_board.shape[0] // 8
 
+flag = 0
 
-    if i%2 == 1:
+for i in range(0, rows, block_size):  
+    for j in range(0, cols, block_size):
 
-      if j%2 == 0:
-        chess_board[i, j] = 0
-      elif j%2 == 1:
-        chess_board[i, j] = 1
+        if flag == 0:
+            flag = 1
 
-plt.imshow(chess_board)
+        else:    
+            chess_board[i : i + block_size, j : j + block_size] = 1
+            flag = 0 
+            
+    if flag == 0:
+      flag = 1
+
+    else:
+      flag = 0
+
+plt.imshow(chess_board, cmap = 'gray')
