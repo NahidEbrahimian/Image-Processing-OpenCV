@@ -16,3 +16,4 @@ for i in range(new_image3.shape[0]):
 
 plt.imshow(new_image3, cmap = 'gray')
 cv2.imwrite("/content/drive/MyDrive/Assignment-21/Results/03new.jpg", new_image3)
+
