@@ -11,6 +11,8 @@
 - QrCodeReaderOpencv
 
 
+https://user-images.githubusercontent.com/82975802/129938760-fcab3243-d2ab-48a7-a39e-3d6c487ab9c7.mp4
+
 
 
 
