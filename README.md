@@ -1,6 +1,6 @@
 # Image Processing using OpenCV
 
-## 01- Pre processing Techniques 01
+# 01- Pre processing Techniques 01
 
 - Rotate of image
 
@@ -10,7 +10,7 @@
 
 #
 
-## 02- Pre Processing Techniques 02
+# 02- Pre Processing Techniques 02
 
 - Sudoku
 
@@ -24,13 +24,13 @@ Then crop the non empty cells and save them as a separate image
 
 #
 
-## 03- Mathematical Operations on Image
+# 03- Mathematical Operations on Image
 
 - multiplication, add, Division and Submission, To find the difference between the two images, averaging and noise elimination in several image
 
 #
 
-## 04- Image Filtering
+# 04- Image Filtering
 
 - average filter and edge finder filter
 
@@ -42,8 +42,83 @@ After applying filter
 
 # ![lion](https://github.com/NahidEbrahimian/Image-Processing-using-OpenCV/blob/main/04-%20Image%20Filtering/Result/lion.jpg)
 
+# 05- Salt and Pepper Noise
 
-## 10- QrCodeReaderOpencv-video
+- original image
+
+# ![mr_bean](https://github.com/n-ebrahimian/salt_and_pepper_noise/blob/main/inputs/mr_bean.jpeg)
+
+- Adding salt and pepper noise to the image
+
+# ![salt_and_pepper_mr_bean](https://github.com/n-ebrahimian/salt_and_pepper_noise/blob/main/Result/salt_and_pepper_mr_bean.jpg)
+
+# 06- Encrypt and Decrypt Image
+
+- Main image
+
+# ![01](https://github.com/n-ebrahimian/Encrypt-and-Decrypt-Image/blob/main/input/01.jpg)
+
+- Encrypted image using created key
+
+# ![encrypted_img](https://raw.githubusercontent.com/n-ebrahimian/Encrypt-and-Decrypt-Image/main/output/encrypted_img.bmp)   
+                         
+- Decrypted image
+
+# ![decrypted_img](https://github.com/n-ebrahimian/Encrypt-and-Decrypt-Image/blob/main/output/decrypted_img.jpg)   
+
+# 07- Removal Noise and Blurred Backg
+
+- Removal Noise on image and Blurred Background
+
+# 08- Object Detection using Contour Finder
+
+- Crop_MNIST_numbers
+
+Crop all numbers in image and save similar numbers in one path
+
+- Chess_pieces
+
+Crop chess pieces in image
+
+- Count the number of object in the image and Crop all character and save it as a jpg images
+
+![penguin3](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/03object-detection-using-contour-finder/Output/penguin3.jpg)
+
+#
+
+- noisey_OCR_characters : 
+
+Crop all characters in noisy image
+
+![noisey_OCR](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/04noisey_OCR_characters/Inputs/noisey_OCR.jpg)
+
+#
+
+![noisey_OCR](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/noisey_OCR_characters/noisey_OCR.jpg)
+
+#
+
+# 09- Color Image Processing
+
+main image
+
+# ![rubix](https://github.com/n-ebrahimian/Color-image-processing/blob/main/inputs/rubix.png)
+
+result
+
+# ![rubix](https://github.com/n-ebrahimian/Color-image-processing/blob/main/results/rubix.jpg)
+
+- Microsoft_logo Designing with dynamic shape 
+
+# ![Microsoft](https://github.com/n-ebrahimian/Color-image-processing/blob/main/results/Microsoft.jpg)   
+
+- video color detection
+                         
+https://user-images.githubusercontent.com/82975802/125969677-1341511d-26ea-41ca-a0bc-e951905974d3.mp4
+
+#
+
+# 10- QrCodeReaderOpencv-video
 
 https://user-images.githubusercontent.com/82975802/129938760-fcab3243-d2ab-48a7-a39e-3d6c487ab9c7.mp4
 
