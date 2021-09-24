@@ -7,15 +7,15 @@
 
 main image
 
-# ![rubix](https://github.com/n-ebrahimian/Color-image-processing/blob/main/inputs/rubix.png)
+# ![rubix](https://github.com/NahidEbrahimian/Image-Processing-using-OpenCV/blob/main/09-%20Color%20Image%20Processing/inputs/rubix.png)
 
 result
 
-# ![rubix](https://github.com/n-ebrahimian/Color-image-processing/blob/main/results/rubix.jpg)
+# ![rubix](https://github.com/NahidEbrahimian/Image-Processing-using-OpenCV/blob/main/09-%20Color%20Image%20Processing/results/rubix.jpg)
 
 - Microsoft_logo Designing with dynamic shape 
 
-# ![Microsoft](https://github.com/n-ebrahimian/Color-image-processing/blob/main/results/Microsoft.jpg)   
+# ![Microsoft](https://github.com/NahidEbrahimian/Image-Processing-using-OpenCV/blob/main/09-%20Color%20Image%20Processing/results/Microsoft.jpg)   
 
 - video color detection
                          
