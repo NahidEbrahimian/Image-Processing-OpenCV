@@ -131,8 +131,12 @@ https://user-images.githubusercontent.com/82975802/129938760-fcab3243-d2ab-48a7-
 
 # 11- color_detection
 
-![color_detection](https://github.com/NahidEbrahimian/Image-Processing-using-OpenCV/blob/main/color_detection_output/color_detection.avi)
+
+https://user-images.githubusercontent.com/82975802/144500791-4eab633e-5a47-4131-a020-8f4391471486.mp4
+
 
 # 12- ColorDetection_ContrastEnhancement
 
-![ColorDetection_ContrastEnhancement](https://github.com/NahidEbrahimian/Image-Processing-using-OpenCV/blob/main/color_detection_output/ColorDetection_ContrastEnhancement.avi)
+
+https://user-images.githubusercontent.com/82975802/144500848-11232bc5-9c2c-4d07-b0d9-789cc48a13b6.mp4
+
