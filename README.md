@@ -6,7 +6,7 @@
 
 - Designing chess board
 
-- Change image gray color
+- Change image color
 
 #
 
